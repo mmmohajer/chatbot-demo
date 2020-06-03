@@ -19,3 +19,5 @@ then type:
 
 - npm install
 - npm run dev
+
+Just remember that, it is only a non-responsive demo webpage, you need to customize both front end and backend according to your desires. 
